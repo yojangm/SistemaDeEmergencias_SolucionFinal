@@ -1,3 +1,8 @@
+package Model.Services;
+
+import Model.Emergencia;
+import Model.Interface.Responder;
+
 public class Bomberos implements Responder    {
 
     @Override

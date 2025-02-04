@@ -1,3 +1,6 @@
+package Model.Services;
+import Model.Emergencia;
+import Model.Interface.Responder;
 public class Policia implements Responder {
     @Override
     public void atenderEmergencia(Emergencia emergencia) {

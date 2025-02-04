@@ -1,4 +1,4 @@
-package Singleton;
+package Model.Singleton;
 
 // Patrón Singleton: es como un jefe que controla todos los recursos
 public class GestionRecursos {

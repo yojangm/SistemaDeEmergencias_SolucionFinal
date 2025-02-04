@@ -1,3 +1,5 @@
+package Model;
+
 public class Emergencia {
     
     private String tipo; // Tipo de emergencia (por ejemplo, "Incendio" o "Accidente")
