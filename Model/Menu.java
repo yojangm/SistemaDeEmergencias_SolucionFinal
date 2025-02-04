@@ -1,8 +1,11 @@
+package Model;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import Singleton.GestionRecursos;
+import Model.Factory.EmergenciaFactory;
+import Model.Singleton.GestionRecursos;
+
 
 public class Menu {
     private static List<Emergencia> emergencias = new ArrayList<>(); // Lista de emergencias
