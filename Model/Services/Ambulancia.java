@@ -1,3 +1,8 @@
+package Model.Services;
+
+import Model.Emergencia;
+import Model.Interface.Responder;
+
 public class Ambulancia implements Responder{
     @Override
     public void atenderEmergencia(Emergencia emergencia) {

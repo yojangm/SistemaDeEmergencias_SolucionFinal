@@ -1,6 +1,6 @@
-package Factory;
+package Model.Factory;
 
-import Strategy.Emergencia;
+import Model.Emergencia;
 
 
 public class EmergenciaFactory {
